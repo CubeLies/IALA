@@ -144,7 +144,7 @@ a:hover .vertical4{background-color: rgba(0, 0, 0, 0.753);}
     text-align: center;}    
 
 .col1{
-    background-image: url('../imagenes/kahn/kahn1.jpg');
+    background-image: url('imagenes/kahn/kahn1.jpg');
 }
 .col2 {
     background-image: url('../imagenes/kahn/kahn2.jpg');
