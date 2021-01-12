@@ -299,6 +299,16 @@ a:hover .vertical4{background-color: rgba(0, 0, 0, 0.753);}
     padding-top: 60px;
     padding-bottom: 10px;
     background-color: rgba(255, 255, 255, 0)}
+.planos-text2{
+    letter-spacing: 1px;
+    font-weight:100;
+    width: 100%;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    padding-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0)}
 .planos-foto{ 
     width: 100%;
     height: 100%;}
@@ -322,8 +332,15 @@ a:hover .vertical4{background-color: rgba(0, 0, 0, 0.753);}
     padding: 10px;
     font-size: 18px;
 }
-.planos-text img{width: 100%;
-height: auto;}
+.planos-text img{
+    width: 100%;
+    height: auto;}
+.planos-text2 img{
+    text-align: center;
+    position: relative;
+    display: inline-flex;
+    justify-content: space-around;
+    width: 49%;}
 
 .mat-image1{background-image: url('../imagenes/casa4.jpeg');}
 .mat-image2{background-image: url('../imagenes/casa12.jpeg');}
