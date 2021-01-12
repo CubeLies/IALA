@@ -285,7 +285,7 @@ nav,.proy-head{
 .nav-links{
     display: flex;
     justify-content: space-around;
-    width: 50%;}
+    width: 100%;}
 .nav-links li,.proy-head li{
     list-style: none;}
 .nav-links a,.proy-head a{
@@ -370,7 +370,7 @@ nav,.proy-head{
 @media screen and (max-width:1000px){
     .content{font-size: 35px;}
     .content span{font-size: 20px;}
-    .piepag{display: none;}
+    .colis{display:none;}
     .row,.row a{
         width: 50vw;
         height: 50vw;}
@@ -378,8 +378,7 @@ nav,.proy-head{
         height: 50vw;}
     
     body{
-        overflow-x:hidden;
-        overflow-y:hidden;}
+        overflow-x:hidden;}
     .nav-links{
         position: absolute;
         right: 0px;
