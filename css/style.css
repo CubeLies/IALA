@@ -336,6 +336,10 @@ a:hover .vertical4{background-color: rgba(0, 0, 0, 0.753);}
     font-size: 20px;
     letter-spacing: 1px;
 }
+.end-foto-text a{
+    text-decoration: none;
+    color: #fff;
+}
 .planos-foto-text2{
     color: #fff;
     justify-content: center;
