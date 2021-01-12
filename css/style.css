@@ -330,14 +330,23 @@ height: auto;}
 .mat-image3{background-image: url('../imagenes/ventana1.jpg');}
 .mat-image4{background-image: url('../imagenes/Puerta2.PNG');}
 .mat-image5{background-image: url('../imagenes/casa7.jpg');}
+.mat-image6{background-image: url('../imagenes/material2.jpg');}
 
-.luz-image1{background-image: url('../imagenes/luces.jpg');}
+.luz-image1{background-image: url('../imagenes/LUZ2.png');}
 
 .planos-image1{background-image: url('../imagenes/planos1.PNG');}
 .planos-image2{background-image: url('../imagenes/planos2.PNG');}
 .planos-image3{background-image: url('../imagenes/planos3.PNG');}
 .planos-image4{background-image: url('../imagenes/planos4.PNG');}
 .planos-image5{background-image: url('../imagenes/planos5.PNG');}
+
+.boceto-image1{background-image: url('../imagenes/boceto1.jpg');}
+.boceto-image2{background-image: url('../imagenes/boceto2.jpg');}
+.boceto-image3{background-image: url('../imagenes/boceto3.jpg');}
+.boceto-image4{background-image: url('../imagenes/boceto4.jpg');}
+.boceto-image5{background-image: url('../imagenes/boceto5.jpg');}
+.boceto-image6{background-image: url('../imagenes/boceto6.png');}
+.boceto-image7{background-image: url('../imagenes/boceto7.png');}
 
 
 
