@@ -42,7 +42,7 @@ h4{font-size: 1vw;text-transform: uppercase;letter-spacing: 0.15vw;}
 
 .back-image1{background-image: url('../imagenes/louis1.jpg');}
 .back-image2{background-image: url('../imagenes/casa3.jpeg');}
-.back-image3{background-image: url('../imagenes/plan1.jpg');}
+.back-image3{background-image: url('../imagenes/planos8.PNG');}
 .back-image4{background-image: url('../imagenes/casa11.jpg');}
 .back-image5{background-image: url('../imagenes/casa8.jpg');}
 .back-image6{background-image: url('../imagenes/louis2.jpg');}
@@ -257,6 +257,78 @@ a:hover .vertical4{background-color: rgba(0, 0, 0, 0.753);}
     background-color: rgba(255, 255, 255, 0);
 }
 .tipo1{font-size: 21px; text-align: justify;}
+
+.mat-text{
+    letter-spacing: 1px;
+    font-weight:100;
+    width: 100%;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0)}
+
+.mat-foto{
+    width: 100%;
+    height: 70%;}
+
+.mat-foto3{
+    text-align: center;
+    position: relative;
+    display: inline-flex;
+    justify-content: space-around;
+    width: 32%;
+    height: 70%;}
+.mat-foto-text{
+    color: #fff;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.267);
+    padding: 10px;
+}
+
+.planos-text{
+    letter-spacing: 1px;
+    font-weight:100;
+    width: 100%;
+    height: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0)}
+
+.planos-foto{ width: 100%;
+height: 100%;}
+
+.mat-image1{background-image: url('../imagenes/casa4.jpeg');}
+.mat-image2{background-image: url('../imagenes/casa12.jpeg');}
+.mat-image3{background-image: url('../imagenes/ventana1.jpg');}
+.mat-image4{background-image: url('../imagenes/Puerta2.PNG');}
+.mat-image5{background-image: url('../imagenes/casa7.jpg');}
+
+.luz-image1{background-image: url('../imagenes/luces.jpg');}
+
+.planos-image1{background-image: url('../imagenes/planos1.PNG');}
+.planos-image2{background-image: url('../imagenes/planos2.PNG');}
+.planos-image3{background-image: url('../imagenes/planos3.PNG');}
+.planos-image4{background-image: url('../imagenes/planos4.PNG');}
+.planos-image5{background-image: url('../imagenes/planos5.PNG');}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Navigator */
 nav{
