@@ -64,7 +64,7 @@ a:hover .vertical4{background-color: rgba(0, 0, 0, 0.753);}
     -ms-transform: translate(-20%, -50%);
     color: #fff;
     text-transform: uppercase;
-    font-size: 55px;
+    font-size: 50px;
     white-space: nowrap;
     overflow: hidden;
 }
@@ -368,6 +368,9 @@ nav,.proy-head{
     to{opacity: 1;transform: translateX(0px)}}
 
 @media screen and (max-width:1000px){
+    .content{font-size: 35px;}
+    .content span{font-size: 20px;}
+    .piepag{display: none;}
     .row,.row a{
         width: 50vw;
         height: 50vw;}
@@ -375,7 +378,8 @@ nav,.proy-head{
         height: 50vw;}
     
     body{
-        overflow-x: hidden ;}
+        overflow-x:hidden;
+        overflow-y:hidden;}
     .nav-links{
         position: absolute;
         right: 0px;
@@ -387,7 +391,7 @@ nav,.proy-head{
         align-items: center;
         width: 50%;
         transform: translateX(100%);
-        transition: transform 0.5s ease-in;
+        transition: transform 0.0s ease-in;
         z-index: 100;}
     .nav-links li{
         opacity: 0;}
